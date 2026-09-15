@@ -1,98 +1,686 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 612 792 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/creating-rulesets-for-a-repository)
->> /Border [ 0 0 0 ] /Rect [ 147 40 203.912 52 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056github\056com\057en\057repositories\057configuring\055branches\055and\055merges\055in\055your\055repository\057managing\055rulesets\057creating\055rulesets\055for\055a\055repository)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 147 40 203.912 52 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/available-rules-for-rulesets)
->> /Border [ 0 0 0 ] /Rect [ 214 40 258.464 52 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056github\056com\057en\057repositories\057configuring\055branches\055and\055merges\055in\055your\055repository\057managing\055rulesets\057available\055rules\055for\055rulesets)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 214 40 258.464 52 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets/about-rulesets)
->> /Border [ 0 0 0 ] /Rect [ 270 40 336.688 52 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056github\056com\057en\057repositories\057configuring\055branches\055and\055merges\055in\055your\055repository\057managing\055rulesets\057about\055rulesets)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 270 40 336.688 52 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 6948
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.078431 0.176471 0.258824 rg
+n
+0 651 612 141 re
+f*
+0.513725 0.866667 0.811765 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 44 760 Tm
+(1d42c4  \057  GITHUB QUICK GUIDE) Tj
+T*
+ET
+q
+1 0 0 1 44 688 cm
+q
+BT
+1 0 0 1 0 31 Tm
+28 TL
+/F2 25 Tf
+1 1 1 rg
+(Protect your next) Tj
+T*
+(GitHub repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 44 663 cm
+q
+0.835294 0.905882 0.929412 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 10.5 Tf
+14 TL
+(Keep branch history safe while allowing normal commits and uploads\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 rg
+n
+66 620 m
+66 626.0751 61.07513 631 55 631 c
+48.92487 631 44 626.0751 44 620 c
+44 613.9249 48.92487 609 55 609 c
+61.07513 609 66 613.9249 66 620 c
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52.22 616.6 Tm
+(1) Tj
+T*
+ET
+q
+1 0 0 1 78 615 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.3 Tm
+/F2 11.7 Tf
+15 TL
+(Open the new repository\047s settings) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 582 cm
+q
+BT
+1 0 0 1 0 18.6 Tm
+-0.03392 Tw
+14.5 TL
+/F1 10.4 Tf
+0.14902 0.231373 0.294118 rg
+(Sign in as the owner\056 Open your repository on GitHub and click ) Tj
+/F2 10.4 Tf
+(Settings) Tj
+/F1 10.4 Tf
+(\056 If it is empty\054 add a README or) Tj
+T*
+0 Tw
+(your first commit so a default branch exists\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 rg
+n
+66 557 m
+66 563.0751 61.07513 568 55 568 c
+48.92487 568 44 563.0751 44 557 c
+44 550.9249 48.92487 546 55 546 c
+61.07513 546 66 550.9249 66 557 c
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52.22 553.6 Tm
+(2) Tj
+T*
+ET
+q
+1 0 0 1 78 552 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.3 Tm
+/F2 11.7 Tf
+15 TL
+(Start a branch ruleset) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 519 cm
+q
+BT
+1 0 0 1 0 18.6 Tm
+14.5 TL
+/F1 10.4 Tf
+0.14902 0.231373 0.294118 rg
+(In the settings sidebar\054 open ) Tj
+/F2 10.4 Tf
+(Rulesets) Tj
+/F1 10.4 Tf
+( \050under ) Tj
+/F2 10.4 Tf
+(Rules) Tj
+/F1 10.4 Tf
+(\054 if shown\051\056 Choose ) Tj
+/F2 10.4 Tf
+(New ruleset) Tj
+/F1 10.4 Tf
+(\054 then ) Tj
+/F2 10.4 Tf
+(New branch) Tj
+T*
+(ruleset) Tj
+/F1 10.4 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 rg
+n
+66 494 m
+66 500.0751 61.07513 505 55 505 c
+48.92487 505 44 500.0751 44 494 c
+44 487.9249 48.92487 483 55 483 c
+61.07513 483 66 487.9249 66 494 c
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52.22 490.6 Tm
+(3) Tj
+T*
+ET
+q
+1 0 0 1 78 489 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.3 Tm
+/F2 11.7 Tf
+15 TL
+(Name it and turn it on) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 456 cm
+q
+BT
+1 0 0 1 0 18.6 Tm
+14.5 TL
+/F1 10.4 Tf
+0.14902 0.231373 0.294118 rg
+(Use a name such as ) Tj
+/F2 10.4 Tf
+(Protect default branch) Tj
+/F1 10.4 Tf
+(\056 Set enforcement to ) Tj
+/F2 10.4 Tf
+(Active) Tj
+/F1 10.4 Tf
+( and leave the ) Tj
+/F2 10.4 Tf
+(Bypass list) Tj
+/F1 10.4 Tf
+T*
+(empty\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 rg
+n
+66 431 m
+66 437.0751 61.07513 442 55 442 c
+48.92487 442 44 437.0751 44 431 c
+44 424.9249 48.92487 420 55 420 c
+61.07513 420 66 424.9249 66 431 c
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52.22 427.6 Tm
+(4) Tj
+T*
+ET
+q
+1 0 0 1 78 426 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.3 Tm
+/F2 11.7 Tf
+15 TL
+(Choose the branch to protect) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 393 cm
+q
+BT
+1 0 0 1 0 18.6 Tm
+14.5 TL
+/F1 10.4 Tf
+0.14902 0.231373 0.294118 rg
+(Under ) Tj
+/F2 10.4 Tf
+(Target branches) Tj
+/F1 10.4 Tf
+(\054 click ) Tj
+/F2 10.4 Tf
+(Add a target) Tj
+/F1 10.4 Tf
+( and include the ) Tj
+/F2 10.4 Tf
+(default branch) Tj
+/F1 10.4 Tf
+( \050usually ) Tj
+/F2 10.4 Tf
+(main) Tj
+/F1 10.4 Tf
+(\051\056 Leave) Tj
+T*
+(exclusions empty\056) Tj
+T*
+ET
+Q
+Q
+0.929412 0.964706 0.960784 rg
+n
+52 280 m
+560 280 l
+564.4224 280 568 283.5776 568 288 c
+568 378 l
+568 382.4224 564.4224 386 560 386 c
+52 386 l
+47.5776 386 44 382.4224 44 378 c
+44 288 l
+44 283.5776 47.5776 280 52 280 c
+h
+f*
+0.031373 0.494118 0.509804 rg
+n
+66 368 m
+66 374.0751 61.07513 379 55 379 c
+48.92487 379 44 374.0751 44 368 c
+44 361.9249 48.92487 357 55 357 c
+61.07513 357 66 361.9249 66 368 c
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52.22 364.6 Tm
+(5) Tj
+T*
+ET
+q
+1 0 0 1 78 363 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.3 Tm
+/F2 11.7 Tf
+15 TL
+(Enable these two rules) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 344.5 cm
+q
+0.14902 0.231373 0.294118 rg
+BT
+1 0 0 1 0 4.1 Tm
+/F1 10.4 Tf
+14.5 TL
+(For the same setup used on your public repositories\072) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 RG
+1.3 w
+n
+79 320.5 8 8 re
+S
+n
+80.4 324.5 m
+82.9 322.3 l
+S
+n
+82.9 322.3 m
+87 327.6 l
+S
+q
+1 0 0 1 96 317.5 cm
+q
+BT
+1 0 0 1 0 3 Tm
+13 TL
+/F2 10 Tf
+0.14902 0.231373 0.294118 rg
+(Restrict deletions) Tj
+/F1 10 Tf
+( \055 prevents deleting the protected branch\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 RG
+1.3 w
+n
+79 302.5 8 8 re
+S
+n
+80.4 306.5 m
+82.9 304.3 l
+S
+n
+82.9 304.3 m
+87 309.6 l
+S
+q
+1 0 0 1 96 299.5 cm
+q
+BT
+1 0 0 1 0 3 Tm
+13 TL
+/F2 10 Tf
+0.14902 0.231373 0.294118 rg
+(Block force pushes) Tj
+/F1 10 Tf
+( \055 prevents rewriting its existing history\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 281.5 cm
+q
+0.321569 0.396078 0.458824 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 9.5 Tf
+13 TL
+(Leave other rules off for this simple setup\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.494118 0.509804 rg
+n
+66 253.5 m
+66 259.5751 61.07513 264.5 55 264.5 c
+48.92487 264.5 44 259.5751 44 253.5 c
+44 247.4249 48.92487 242.5 55 242.5 c
+61.07513 242.5 66 247.4249 66 253.5 c
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 52.22 250.1 Tm
+(6) Tj
+T*
+ET
+q
+1 0 0 1 78 248.5 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.3 Tm
+/F2 11.7 Tf
+15 TL
+(Save and check) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 78 215.5 cm
+q
+BT
+1 0 0 1 0 18.6 Tm
+14.5 TL
+/F1 10.4 Tf
+0.14902 0.231373 0.294118 rg
+(Click ) Tj
+/F2 10.4 Tf
+(Create) Tj
+/F1 10.4 Tf
+(\056 Reopen the ruleset and confirm it is ) Tj
+/F2 10.4 Tf
+(Active) Tj
+/F1 10.4 Tf
+(\054 targets the default branch\054 and has both rules) Tj
+T*
+(enabled\056) Tj
+T*
+ET
+Q
+Q
+0.847059 0.890196 0.905882 RG
+0.7 w
+n
+44 201.5 m
+568 201.5 l
+S
+q
+1 0 0 1 44 176.5 cm
+q
+0.078431 0.176471 0.258824 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F2 10.5 Tf
+14 TL
+(Repeat for each new repository\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 44 160 cm
+q
+0.14902 0.231373 0.294118 rg
+BT
+1 0 0 1 0 3.5 Tm
+/F1 10 Tf
+13.5 TL
+(Rules on an existing repository do not automatically protect future ones\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 44 126 cm
+q
+0.321569 0.396078 0.458824 rg
+BT
+1 0 0 1 0 16.4 Tm
+/F1 9.6 Tf
+13 TL
+(Private repo\077 GitHub Free supports this for public repositories\056 Private repositories in a personal account need GitHub Pro\056) Tj
+T*
+(An upgrade message means protection is not enabled\056 Your private imageboards repository has this limitation\056) Tj
+T*
+ET
+Q
+Q
+0.847059 0.890196 0.905882 RG
+n
+44 57 m
+568 57 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+0.321569 0.396078 0.458824 rg
+BT
+1 0 0 1 44 43 Tm
+(Official GitHub instructions\072) Tj
+T*
+ET
+0.031373 0.494118 0.509804 rg
+BT
+1 0 0 1 147 43 Tm
+(Create a ruleset) Tj
+T*
+ET
+0.031373 0.494118 0.509804 rg
+BT
+1 0 0 1 214 43 Tm
+(Rule options) Tj
+T*
+ET
+0.031373 0.494118 0.509804 rg
+BT
+1 0 0 1 270 43 Tm
+(Plans \046 availability) Tj
+T*
+ET
+0.321569 0.396078 0.458824 rg
+BT
+1 0 0 1 467.496 43 Tm
+(Updated September 5\054 2026) Tj
+T*
+ET
+
+endstream
 endobj
 8 0 obj
 <<
-/PageMode /UseNone /Pages 10 0 R /Type /Catalog
+/F1 9 0 R
+/F2 10 0 R
 >>
 endobj
 9 0 obj
 <<
-/Author (Guide for knightway8) /CreationDate (D:20260905010439-04'00') /Creator (anonymous) /Keywords () /ModDate (D:20260905010439-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (One-page GitHub default branch protection guide) /Title (Protect Future GitHub Repositories) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Count 1 /Kids [ 7 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2559
+/Author (Guide for 1d42c4)
+/CreationDate (D\07220260905010439\05504\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220260905010439\05504\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (One\055page GitHub default branch protection guide)
+/Title (Protect Future GitHub Repositories)
+/Trapped (\057False)
 >>
-stream
-Gatm=gN)%,&:N/3lr0s.*0p^6?M`)i;TJ='9bUa&:1sDi;38b_\+4"KJ)B&c.$9\V>-?nR!2+o!`U;E3"mgc!57[^cj8a*7nABSX*!(sT31f6JiYT+,bUbg]4kB_X$%+DA<lcs/*n5D?!gic3!?W+<SccBPp%L783c6&c=J:fU!c/l^.VSqL&.l)RgBroIr9P894:_MNL.)UDO.WR-5:h7Js!%[A!T<N`n_s0nI(?q:pCT#rYC=4\%MjQ1id6jXcYO`>%n#+aIN-A9!OmSW"m[EYcpG$iJ*K+_J$-sq,qV6F>n)Mag9Psd5JKnH&)@l-=-ZM6QM'9'o,%<BC\M,:h$RF:+qLcr-BDSn,P75o_n[s!P%F!-gX9--oB.3\WaJuM7C%J=g5oo[ijFAn9q!MeZ`JOFM`W?03fc'fauiJS#3'(q?'U]FWj27K[;6Y3j+?Bd.8C/7[%l"!_4:<bpqhbjGC0f]a-KpGHuu$Gga"[/`8,ZH^dHgt5Fq[0c+oA"d]<^tZgEQ[@$AfXP&X#Bqru+\A;4LWj3pB9Z.VA$&33Wj6D+nInejX:;0W3e:6?kge&^AROK/J:l5_B_"!e-8[n7C^DA;*l@/u@,)e`4*@VD3%UnAkD6#h]Z-e')[@q2au#^?,1kpSE,)'^2j?o_P(,H?ERW6c,&.,UhE"f)=?%3&A4'WSTlNFd5#/;:A0K5O"MP,6:X^c#t@CK9tqiGOB>bUp>.6eXl\JBFqdnI4F-$=^NZ3</g+$Rk>t!B0=TcKa"qh6[Bgd$-M:V:KXQ[6<*k<s8EBfTe5=fTj1_LL'/"KKEoQfVKb.F??&i."ecTV7hXil1lk4RfR\HaL^ajG.!8F?rotP?rp$1=%`!dfY)"Z\jbKqT@[AG&@>6meVTm5l\QIldYZH9#rLm=/`Z[98qQ:N"L#4]7j&(ecF[P^lD[4-/']8C6aOVAq"$QThJLE@;+FZ:U8/j?APWN!J':_mV1%(pE]tr5</BRI"**)PLU\oRT%FGpN^H-S599VHK-?8ihh/ET\g2os!Q8\C])1a3NYau$iF!er:-mYCUXt+mV`7aG:./r9<u9@>Ml.]c8cSH+IZ(.^TcbSK%T<f#p^f'+feKA>@ml5#%'!ErFeWnV[*Y+/`188mHEW>S$2G]Bn\*qh4'_RSZ&5"T11]6oeI5oapQGW9n]Q&&fE85<#mM>,"2N?HYh;h8^1.-n]R@S)R6WO;>1cEd+fXh+)`q@1=:lCcHBWjorbDPc:_?.;cnYg9dKk+*[Vk0?,&AXJF:m,KWX%a->+MZ8cFG98=hk.udiuoFeJ((E.m)r'BK@]#+-.tuj0UdN6Ic#C-,c+HeQ4T$8^#!#1'_2G"hYRYG\s'VMRWjP*m>h(i`Y:6KmFX1n.m;]!&UK\6\JS-#D$dt</aZ"`<^(e(CIib]@7:([`rYU8uRru]Kck!Olu,_;*P>/\r_M;GDt7)(#,MN9kG>:MuUq0(QIH;FouY9O55>%H>3Y09LC_XgZGd,)oGoc43h=P9.#h<Q.&J`%U$9Ic!r?c"aTI/6ZjHnWB>@5(UsF8`tq1WbS\Nfbn$X',G*+eO-3JCT1[A5G0b15f1+*Ag9pqSAZ`!`5'p8`<R<U<7FaS'i)R8)9\nM,;Ut^?9P2&RS2n+J#JBtELg<;*ee!?#mXKlH68HLpA4R2d8t$rCI\qV,qgcH#\21bFmrm!40Zm/;4(IVrAi$p2_<[IQ_.;/tC$Uuof1`T:fE3&=]^Z3j<Sc\Tg6bHVSL2Z#dRBdBb'EEk\*"f:*-72.&):ZAHg]i'g-'V$bWR/-?H#'GZP(r[$OT9i1Zn<3pXJK%:>%l(`kYY4)OP`*IK,8A/OF(XDHAgGO2,e(4OJXW\[?i"M9MFpDf!^`%40#mel`1<H;0mEYbcH$aK*NmrmYCG8CEsm/nuESSF?j685d#TTK<%&Gd^ttI94b30%-m]U-%<?,E"Vcb0qHRJ:>nsXr#KW^j@NZ`8$uZ4g`:V[0Mg5$4afrCfL!"PF-=M;%ULHBR)O6H+^1Xg`EGM/\"hms*A2CBA2j\=Jp:ZhDCg2@%WkX7R+GBl]j8l]YXGoM81,R#'7ar`TdH)+k@JC'.&TR-h=aMLe'5`ET.ddQL-AiE';&90j3EK%-?a4Q.teg+!e$iL$n#<;__=Nj(GQ0%Nmi\qkW7hoI?m4h]-Oc3pR/qlAgT':Kje3M@tQp[:LDgBu3lDiH&+FGS*@C.+H*1db*>l;?'>,EdRpTcWL0sYs-e(4^sLIr2G0_HXA;7'in=;1Lq&4jOGI[ZNW\srE"I)K1aZg=i;2r8Q'_V-S,t'=@NJN/@SiRT,5jSGBJiZG-78\^8!U+9%Q$,%nFJu3N`T4r5#4];4cp[Am*.HWYmjE'-$8D1f)knjICa2"u/9qkngp]iG8E(&X!OTPPWT:c\_g3(Ra`@>HcL$7FrApU]o<N*H-%!lTB/8%-0HUcjSE`K$HT.0mfKCiG=K!-pq/)8s>J""ElH]F%2l$#3,M>c/N<'V=!bj'[QEBO%2t+pG-Zf<D<)3NN-0I0CcQ;B1OdeG`]`-?WcY^?N~>endstream
 endobj
 xref
 0 12
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000598 00000 n 
-0000000869 00000 n 
-0000001126 00000 n 
-0000001351 00000 n 
-0000001420 00000 n 
-0000001754 00000 n 
-0000001814 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000361 00000 n 
+0000000701 00000 n 
+0000001032 00000 n 
+0000001343 00000 n 
+0000008343 00000 n 
+0000008385 00000 n 
+0000008492 00000 n 
+0000008605 00000 n 
 trailer
 <<
-/ID 
-[<604c027db481b6d84d5bfdcd9362fe30><604c027db481b6d84d5bfdcd9362fe30>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 9 0 R
-/Root 8 0 R
 /Size 12
+/Root 1 0 R
+/Info 11 0 R
+/ID [ <604c027db481b6d84d5bfdcd9362fe30> <604c027db481b6d84d5bfdcd9362fe30> ]
 >>
 startxref
-4465
+8972
 %%EOF
